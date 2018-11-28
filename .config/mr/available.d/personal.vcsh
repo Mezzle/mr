@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/personal.git]
+checkout = vcsh clone git@github.com:Mezzle/personal.git personal
+
